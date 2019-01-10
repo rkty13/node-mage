@@ -1,0 +1,25 @@
+{
+  "name": "node-mage",
+  "version": "1.0.0",
+  "description": "Magic engine implementation in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkty13/node-mage.git"
+  },
+  "author": "Robert Kim <rkty13@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rkty13/node-mage/issues"
+  },
+  "homepage": "https://github.com/rkty13/node-mage#readme",
+  "dependencies": {
+    "redux": "^4.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.0"
+  }
+}
